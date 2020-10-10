@@ -20,7 +20,7 @@ function preload()
   dogImg = loadImage("Dog.png");
   happyDogImg = loadImage("happydog.png");
   bedroomImg = loadImage("images/Bed Room.png");
-  gardenImg = loadImage("images/garden.png");
+  gardenImg = loadImage("images/Garden.png");
   washroomImg = loadImage("images/Wash Room.png");
   sadDog = loadImage("images/Lazy.png");
   vacc = loadImage("images/Vaccination.jpg");
